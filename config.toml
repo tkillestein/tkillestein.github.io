@@ -1,4 +1,105 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://tkillestein.github.io'
+languageCode = 'en-gb'
+title = 'Thomas Killestein'
 theme = "risotto"
+author = 'Thomas Killestein'
+copyright = '(2022) Thomas Killestein'
+paginate = 3
+
+
+[params]
+[params.theme]
+palette = 'gruvbox-dark'
+mode = 'dark-mode'
+
+
+[params.about]
+title = "Thomas Killestein"
+description = "Personal website"
+logo = "images/rice.svg"
+
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 5 <https://fontawesome.com/> ('fas fa-' or 'fab-fa' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+
+[[params.socialLinks]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/tkillestein/"
+
+[[params.socialLinks]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "mailto:t.killestein@warwick.ac.uk"
+
+[[params.socialLinks]]
+icon = "ai ai-orcid"
+title = "ORCID"
+url = "https://orcid.org/0000-0002-0440-9597"
+
+[menu]
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "papers"
+    name = "Papers"
+    url = "/papers"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "conferences-talks"
+    name = "Conferences-and-talks"
+    url = "/talks"
+    weight = 8
+
+  [[menu.main]]
+    identifier = "observing"
+    name = "Observing"
+    url = "/observing"
+    weight = 10
+
+[[menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy]
+
+[privacy.vimeo]
+disabled = true
+simple = true
+
+[privacy.twitter]
+disabled = true
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = true
+simple = true
+
+[privacy.youtube]
+disabled = true
+privacyEnhanced = true
+
+[services]
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
