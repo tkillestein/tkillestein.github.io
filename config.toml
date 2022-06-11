@@ -15,8 +15,8 @@ mode = 'dark-mode'
 
 [params.about]
 title = "Thomas Killestein"
-description = "Personal website"
-logo = "images/rice.svg"
+description = "Personal website/CV/notes"
+logo = ""
 
 # Sidebar: social links
 # Available icon sets:
