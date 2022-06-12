@@ -2,6 +2,7 @@
 title = "About me"
 date = "2022-06-10"
 +++
+
 I am a third year PhD student at the University of Warwick, supervised by 
 [Danny Steeghs](https://warwick.ac.uk/fac/sci/physics/research/astro/people/steeghs) 
 and [Joe Lyman](http://www.astro.warwick.ac.uk/people/lyman)

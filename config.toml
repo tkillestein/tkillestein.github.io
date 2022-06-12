@@ -17,7 +17,11 @@ mode = 'dark-mode'
 
 [params.about]
 title = "Thomas Killestein"
-description = "Personal website/CV/notes"
+description = '''
+PhD student
+University of Warwick
+'''
+
 logo = "/images/killestein.jpg"
 
 # Sidebar: social links
@@ -81,7 +85,6 @@ series = "series"
 unsafe = true
 
 [privacy]
-
 [privacy.vimeo]
 disabled = true
 simple = true
