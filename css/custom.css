@@ -1,3 +1,15 @@
 .about__logo {
     height: 55%;
 }
+
+.page__aside {
+    color: var(--fg);
+}
+
+.page__footer {
+    color: var(--fg);
+}
+
+a:hover {
+    color: var(--bright-green);
+}
