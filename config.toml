@@ -35,6 +35,11 @@ title = "GitHub"
 url = "https://github.com/tkillestein/"
 
 [[params.socialLinks]]
+icon = "fas fa-university"
+title = "Institutional page"
+url = "https://warwick.ac.uk/fac/sci/physics/research/astro/people/thomaskillestein"
+
+[[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:t.killestein@warwick.ac.uk"
