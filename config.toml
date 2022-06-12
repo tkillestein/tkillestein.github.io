@@ -5,6 +5,8 @@ theme = "risotto"
 author = 'Thomas Killestein'
 copyright = '(2022) Thomas Killestein'
 paginate = 3
+enableInlineShortcodes = true
+enableGitInfo = true
 
 
 [params]
@@ -16,7 +18,7 @@ mode = 'dark-mode'
 [params.about]
 title = "Thomas Killestein"
 description = "Personal website/CV/notes"
-logo = ""
+logo = "/images/killestein.jpg"
 
 # Sidebar: social links
 # Available icon sets:
