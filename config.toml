@@ -9,7 +9,7 @@ paginate = 3
 
 [params]
 [params.theme]
-palette = 'gruvbox-dark'
+palette = 'nord-dark'
 mode = 'dark-mode'
 
 

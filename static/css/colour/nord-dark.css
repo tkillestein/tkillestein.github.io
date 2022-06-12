@@ -1,0 +1,16 @@
+/* Nord Dark
+ * https://www.nordtheme.com/
+ */
+:root {
+    --dark-black: #2e3440;
+    --black: #3b4252;
+    --bright-black: #434c5e;
+
+    --white: #e5e9f0;
+    --bright-white: #eceff4;
+
+    --green: #81a1c1;
+    --bright-green: #5e81ac;
+    --yellow: #81a1c1;
+
+}
