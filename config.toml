@@ -7,7 +7,7 @@ copyright = '(2022) Thomas Killestein'
 paginate = 3
 enableInlineShortcodes = true
 enableGitInfo = true
-
+googleAnalytics = 'G-KGNZRY5QP2'
 
 [params]
 [params.theme]
@@ -101,6 +101,12 @@ simple = true
 [privacy.youtube]
 disabled = true
 privacyEnhanced = true
+
+[privacy.googleAnalytics]
+disabled = false
+respectDoNotTrack = true
+anonymizeIP = true
+useSessionStorage = false
 
 [services]
 [services.instagram]
