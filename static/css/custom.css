@@ -1,5 +1,6 @@
 .about__logo {
-    height: 55%;
+    width: 100%;
+    height: auto;
 }
 
 .page__aside {
