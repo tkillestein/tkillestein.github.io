@@ -11,7 +11,7 @@ Upcoming
 - NAM 2022 - convenor of the [Machine Learning in Modern Astronomy](https://nam2022.org/science/parallel-sessions/details/2/170) session.
 - NAM 2022 ['The lives and deaths of massive stars'](https://nam2022.org/science/parallel-sessions/details/2/168) [contributed talk]
 - EAS 2022 [e-Poster]
-- ePESSTO+ Science Meeting [contributed talk]
+- ePESSTO+ Science Meeting [contributed talk](/media/killestein_epesstotalk_2022.pdf)
 
 2022
 ---
