@@ -10,11 +10,12 @@ Upcoming
 ---
 - NAM 2022 - convenor of the [Machine Learning in Modern Astronomy](https://nam2022.org/science/parallel-sessions/details/2/170) session.
 - NAM 2022 ['The lives and deaths of massive stars'](https://nam2022.org/science/parallel-sessions/details/2/168) [contributed talk]
-- EAS 2022 [e-Poster] [flash talk slides]
-- ePESSTO+ Science Meeting [contributed talk](/media/killestein_epesstotalk_2022.pdf)
 
 2022
 ---
+- EAS 2022 [[e-Poster]](https://k-poster.kuoni-congress.info/eas2022/poster/8991df61-399f-4fbd-ac00-1636b7685a0d) 
+[[flash talk slides]](/media/killestein_flashposter_slides_eas2022.pdf)
+- ePESSTO+ Science Meeting [[contributed talk]](/media/killestein_epesstotalk_2022.pdf)
 - [Turing Research Software Engineering with Python course](https://alan-turing-institute.github.io/rse-course/html/index.html)
 
 2021
