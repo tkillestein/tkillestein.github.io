@@ -6,13 +6,11 @@ date = "2022-06-10"
 Below is a list of all the conferences, talks, and events I have attended each year.
 Where available, I've linked my contributions/the overall course/session page in the hope it's useful!
 
-Upcoming
----
-- NAM 2022 - convenor of the [Machine Learning in Modern Astronomy](https://nam2022.org/science/parallel-sessions/details/2/170) session.
-- NAM 2022 ['The lives and deaths of massive stars'](https://nam2022.org/science/parallel-sessions/details/2/168) [contributed talk]
 
 2022
 ---
+- NAM 2022 - convenor of the [Machine Learning in Modern Astronomy](https://nam2022.org/science/parallel-sessions/details/2/170) session.
+- NAM 2022 ['The lives and deaths of massive stars'](https://nam2022.org/science/parallel-sessions/details/2/168) [[contributed talk]](/media/Killestein_Stellar3_ProbingTheCircumstellarEnvironments.pdf)
 - EAS 2022 [[e-Poster]](https://k-poster.kuoni-congress.info/eas2022/poster/8991df61-399f-4fbd-ac00-1636b7685a0d) 
 [[flash talk slides]](/media/killestein_flashposter_slides_eas2022.pdf)
 - ePESSTO+ Science Meeting [[contributed talk]](/media/killestein_epesstotalk_2022.pdf)
