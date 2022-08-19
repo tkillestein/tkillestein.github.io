@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{- site.Language.Lang -}}">
+<meta http-equiv="Content-Security-Policy" content="base-uri 'self'; connect-src 'self'; default-src 'self'; font-src 'self' https://cdnjs.cloudflare.com?; frame-src 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; script-src 'report-sample' 'self' https://www.googletagmanager.com/gtag/js; style-src 'report-sample' 'self' https://cdnjs.cloudflare.com; worker-src 'none'">
+<meta http-equiv="Referrer-Policy" content="strict-origin">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<meta http-equiv="X-Frame-Options" content="DENY">
+<meta http-equiv="X-XSS-Protection" content="1; mode=block">
+
+    X-Frame-Options = 'DENY'
+    X-XSS-Protection = '1; mode=block'
 
     <head>
         {{- partial "head.html" . -}}

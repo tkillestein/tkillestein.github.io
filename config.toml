@@ -123,7 +123,7 @@ disableInlineCSS = true
 [[server.headers]]
   for = '/**'
   [server.headers.values]
-    Content-Security-Policy = "base-uri 'self'; connect-src 'self'; default-src 'self'; font-src 'self' https://cdnjs.cloudflare.com?; frame-src 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; script-src 'report-sample' 'self'  https://www.googletagmanager.com/gtag/js; style-src 'report-sample' 'self' https://cdnjs.cloudflare.com; worker-src 'none'"
+    Content-Security-Policy = "base-uri 'self'; connect-src 'self'; default-src 'self'; font-src 'self' https://cdnjs.cloudflare.com?; frame-src 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; script-src 'report-sample' 'self' https://www.googletagmanager.com/gtag/js; style-src 'report-sample' 'self' https://cdnjs.cloudflare.com; worker-src 'none'"
     Referrer-Policy = 'strict-origin'
     X-Content-Type-Options = 'nosniff'
     X-Frame-Options = 'DENY'
