@@ -7,6 +7,9 @@
 <meta http-equiv="X-XSS-Protection" content="1; mode=block">
 
     <head>
+        <style>
+            {{ readFile "static/critical.css" | safeCSS }}
+        </style>
         {{- partial "head.html" . -}}
         {{ template "_internal/google_analytics.html" . }}
     </head>
