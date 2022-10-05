@@ -9,6 +9,7 @@ Where available, I've linked my contributions/the overall course/session page in
 
 2022
 ---
+- LIGO CW Group Meeting (invited) - _PEGS IV: Updates to the Sco X-1 ephemeris_
 - NAM 2022 - convenor of the [Machine Learning in Modern Astronomy](https://nam2022.org/science/parallel-sessions/details/2/170) session.
 - NAM 2022 ['The lives and deaths of massive stars'](https://nam2022.org/science/parallel-sessions/details/2/168) [[contributed talk]](/media/Killestein_Stellar3_ProbingTheCircumstellarEnvironments.pdf)
 - EAS 2022 [[e-Poster]](https://k-poster.kuoni-congress.info/eas2022/poster/8991df61-399f-4fbd-ac00-1636b7685a0d) 
