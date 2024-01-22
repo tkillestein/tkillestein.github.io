@@ -2,10 +2,10 @@
 title = "About me"
 date = "2022-06-10"
 +++
-
-I am a third year PhD student at the University of Warwick, supervised by 
+I am a postdoctoral researcher based at the University of Turku. I recently completed my PhD at the University of Warwick under the supervision of
 [Danny Steeghs](https://warwick.ac.uk/fac/sci/physics/research/astro/people/steeghs) 
-and [Joe Lyman](http://www.astro.warwick.ac.uk/people/lyman)
+and [Joe Lyman](http://www.astro.warwick.ac.uk/people/lyman).
+I am a survey builder and core team member on the Gravitational-wave Optical Transient Observer (GOTO) project.
 
 My research principally focuses on machine/deep learning techniques for time-domain astrophysics, as well as high-cadence
 observations of transients, Bayesian methods, and general astronomical software development -- with a particular focus on
