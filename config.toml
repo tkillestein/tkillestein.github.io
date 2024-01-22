@@ -3,7 +3,7 @@ languageCode = 'en-gb'
 title = 'Thomas Killestein'
 theme = "risotto"
 author = 'Thomas Killestein'
-copyright = '(2022) Thomas Killestein'
+copyright = '(2024) Thomas Killestein'
 paginate = 3
 enableInlineShortcodes = true
 enableGitInfo = true
@@ -17,8 +17,8 @@ mode = 'dark-mode'
 [params.about]
 title = "Thomas Killestein"
 description = '''
-PhD student
-University of Warwick
+Postdoctoral Researcher
+University of Turku
 '''
 
 logo = "/images/killestein.jpg"
@@ -41,7 +41,7 @@ url = "https://warwick.ac.uk/fac/sci/physics/research/astro/people/thomaskillest
 [[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:t.killestein@warwick.ac.uk"
+url = "mailto:thomas.killestein@utu.fi"
 
 [[params.socialLinks]]
 icon = "ai ai-orcid"
