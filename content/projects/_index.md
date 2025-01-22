@@ -1,1 +1,1 @@
-This page hosts summaries of some of the key projects I've worked on.
+This page summarises a number of key research projects I've worked on.
