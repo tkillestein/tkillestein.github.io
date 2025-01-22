@@ -9,7 +9,13 @@ We launched Kilonova Seekers in July 2023, and since then it has led t  81 disco
 
 A landmark discovery from the project was GOTO0650, a peculiar dwarf nova which was discovered by Kilonova Seekers, and followed up with the help of volunteers using telescopes at Las Cumbres Observatory through our education program, and from an [AAVSO Alert Notice](https://apps.aavso.org/v2/campaigns/877)
 
-Kilonova Seekers has received a number of press releases since launch - as well as being adopted by a number of university education/outreach programs in the UK and Finland.
+Kilonova Seekers has been the subject of a number of press releases since launch - as well as being adopted by a number of university education/outreach programs in the UK and Finland.
 
 **[Project Site](https://kilonova-seekers.org)**  
 **[Project Paper](https://arxiv.org/abs/2406.02334)**
+
+### Stack
+* **Server:** Raspberry Pi Model 4B, hosted with [Mythic Beasts](http://mythic-beasts.com)
+* **Database:** [PostgreSQL](https://www.postgresql.org) with [TimescaleDB](https://github.com/timescale/timescaledb) 
+* **Web server + REST API:** Apache, [Django](https://www.djangoproject.com), [DjangoNinja](https://django-ninja.dev)
+* **Monitoring and analytics:** Prometheus, Grafana
