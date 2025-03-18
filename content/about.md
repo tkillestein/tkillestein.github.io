@@ -2,7 +2,9 @@
 title = "About me"
 +++
 
-I am a Grant Research Fellow at the [University of Turku](https://utu.fi/en), hosted in the [Transients group](https://sites.utu.fi/sne/) by [Rubina Kotak](https://www.utu.fi/en/people/rubina-kotak) and [Seppo Mattila](https://www.utu.fi/en/people/seppo-mattila). I am currently funded by a [Turku University Foundation](https://www.yliopistosaatio.fi/en/home/) grant.
+I am a Prize Fellow at the [University of Warwick](https://warwick.ac.uk) in the [Astronomy and Astrophysics group](https://warwick.ac.uk/fac/sci/physics/research/astro/). 
+
+I was previously a Grant Research Fellow at the [University of Turku](https://utu.fi/en), hosted in the [Transients group](https://sites.utu.fi/sne/) by [Rubina Kotak](https://www.utu.fi/en/people/rubina-kotak) and [Seppo Mattila](https://www.utu.fi/en/people/seppo-mattila) - funded by a [Turku University Foundation](https://www.yliopistosaatio.fi/en/home/) grant.
 
 I completed my PhD in 2023 at the [University of Warwick](https://warwick.ac.uk) in the [Astronomy and Astrophysics](https://warwick.ac.uk/fac/sci/physics/research/astro/) group, under the supervision of [Danny Steeghs](https://warwick.ac.uk/fac/sci/physics/research/astro/people/steeghs/) and [Joseph Lyman](https://warwick.ac.uk/fac/sci/physics/research/astro/people/lyman). The core activities of my thesis were developing next-generation ML algorithms for transient discovery, classification, and characterisation, applied to the Gravitational-wave Optical Transient Observer (GOTO) datastream - it can be read [via the institutional repository](https://wrap.warwick.ac.uk/id/eprint/182423/). I remain a core team member of GOTO and survey builder.
 
