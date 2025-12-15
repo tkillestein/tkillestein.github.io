@@ -1,6 +1,7 @@
 +++
 title = "Kilonova Seekers"
 date = "2023-07-11"
+lastmod = "2025-12-15 15:22:00"
 +++
 
 Kilonova Seekers is an innovative, real-time citizen science project that invites members of the public to find cosmic explosions in data from the [Gravitational-wave Optical Transient Observer (GOTO)](https://goto-observatory.org) survey. Volunteers are shown the science, template, and difference images that researchers inspect to identify transients, and are asked if a real transient is present.
@@ -10,6 +11,11 @@ We launched Kilonova Seekers in July 2023, and since then it has led t  81 disco
 A landmark discovery from the project was GOTO0650, a peculiar dwarf nova which was discovered by Kilonova Seekers, and followed up with the help of volunteers using telescopes at Las Cumbres Observatory through our education program, and from an [AAVSO Alert Notice](https://apps.aavso.org/v2/campaigns/877)
 
 Kilonova Seekers has been the subject of a number of press releases since launch - as well as being adopted by a number of university education/outreach programs in the UK and Finland.
+
+#### Responsible use of ML in Kilonova Seekers
+As part of doing citizen science in a transparent, responsible, and ethical way, I drafted a policy to govern our usage of ML in Kilonova Seekers, among the first projects to put such a policy out.
+You can read more here: [Responsible ML policy](/content/projects/responsible_ml.md)
+
 
 **[Project Site](https://kilonova-seekers.org)**  
 **[Project Paper](https://arxiv.org/abs/2406.02334)**
