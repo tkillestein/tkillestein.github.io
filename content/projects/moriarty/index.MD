@@ -1,5 +1,5 @@
 +++
-title = "Transient-optimised real-bogus classification for GOTO"
+title = "Moriarty"
 date = "2025-12-15"
 +++
 
