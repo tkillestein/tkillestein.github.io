@@ -1,6 +1,6 @@
 +++
-title = Responsible Use of Machine Learning in Kilonova Seekers
-date = 2025-12-15
+title = "Responsible Use of Machine Learning in Kilonova Seekers"
+date = "2025-12-15"
 +++
 
 The use of artificial intelligence (AI) and machine learning (ML) has become a core component of many projects hosted on [Zooniverse](https://www.zooniverse.org) – using these techniques to amplify the impact of your work as volunteers, and scale to large datasets for large-scale scientific inquiry. AI now plays a pervasive role in society at large. Such techniques have been transformative, including for our work on [Kilonova Seekers](https://kilonova-seekers.org), but such tools must be used carefully to avoid amplifying biases or increasing inequality, and thus must be applied in a fair and responsible way. With this in mind, as we re-launch our project, we wanted to be mindful about being transparent about how, where, and when your contributions are used for machine learning. 
